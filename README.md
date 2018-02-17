@@ -1,2 +1,2 @@
 # Hadoop-codes
-Contains some simple hadoop codes
+Contains some hadoop codes
